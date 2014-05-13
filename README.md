@@ -1,0 +1,1 @@
+This is a procedural ruby blackjack game. It is the first assignment in Tealeaf Academy's Ruby on Rails course.
