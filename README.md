@@ -1,1 +1,1 @@
-This is a procedural ruby blackjack game. It is the first assignment in Tealeaf Academy's Ruby on Rails course.
+Two versions of Blackjack for Terminal: procedurally coded and OOP. These are the first two assignments in Tea Leaf Academy's Ruby on Rails course.
